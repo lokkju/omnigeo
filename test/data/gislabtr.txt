@@ -1,0 +1,52 @@
+# Addresses used by "Geocoding Best Practices: Review of Eight Commonly Used Geocoding Systems"
+# http://spatial.usc.edu/wp-content/uploads/2014/03/gislabtr10.pdf
+3815 Stuart Ranch Road, Malibu, CA, 90265 Address range interpolation
+3874 Cross Creek Rd, Malibu, CA, 90265
+10936 Pacific View Dr, Malibu, CA 90265
+21821 Castlewood Drive, Malibu, CA, 90265
+5901 Filaree Heights Ave, Malibu, Ca 90265
+22211 Pacific Coast Hwy, Malibu, CA, 90265
+6902 Wildlife Rd, Malibu, CA, 90265
+23732 Malibu Road Malibu, CA, 90265
+6506 Westward Beach Rd Malibu, CA, 90265
+3410 Civic Center Way, Malibu, CA, 90265
+305 East Pacific Coast Highway, Long Beach, CA, 90806
+1515 Hughes Way, Long Beach, CA, 90810
+400 West Ocean Boulevard #1001, Long Beach, Ca
+2400 E. Spring Street Long Beach, CA, 90806
+1240 San Antonio Dr., Long Beach, CA, 90807
+5021 East Anaheim Street, Long Beach, CA, 90804
+3606 Arabella St., Long Beach, CA, 90805
+4726 Boyar, Long Beach, CA, 90807
+5915 E Seaside Walk, Long Beach,CA, 90803
+5050 Linden Ave 107, Long Beach,CA, 90805
+3055 Zane Grey Terrace, Altadena, CA, 91001
+922 E Mendocino Street, Altadena, CA, 91001
+617 Devirian Pl, Altadena, CA, 91001
+2485 Lake Ave, Altadena, CA, 91001-2441
+2595 Fair Oaks Ave Altadena, CA, 91001
+2290 Country Club Drive, Altadena, CA, 91001
+816 La Vina Ln, Altadena, CA, 91001-3754
+600 E. Mariposa St. , Altadena , CA, 91001
+2851 Lake Avenue, Altadena Ca 91001
+2333 N. Lake Ave. Unit H, Altadena, CA, 91001
+44916 North 10th Street West, Lancaster, CA 93534
+554 W. Lancaster Blvd., Lancaster, Ca 93534
+44750 60th Street West, Lancaster, CA, 93536-7620
+43209 Crestwood Ct, Lancaster, CA, 93536
+219 West Milling Street, Lancaster , Ca 93534
+43625 N. Sierra Hwy. Suite A, Lancaster, CA, 93534
+43436 16th Street West Lancaster, CA, 93534
+1811 West Avenue J-12, Lancaster, CA, 93534
+1309 W Ivesbrook St, Lancaster, Ca 93534
+2025 W Ave K10, Lancaster, Ca 93536
+801 East 4th Place, Los Angeles, CA, 90013
+725 South Bixel Street Los Angeles, CA, 90017
+333 South Figueroa Street Los Angeles, CA, 90071
+740 S. Broadway Ave., Los Angeles, CA, 90014
+1850 Industrial St., Los Angeles, CA, 90021
+11 South Hope Street, Los Angeles, CA, 90017
+1130 S Flower St #420, Los Angeles, CA, 90015
+930 Wilshire Blvd., Los Angeles, CA, 90017
+333 S. Alameda Street, Los Angeles, CA, 90013-1735
+318 E 2nd St, Los Angeles, CA, 90012
