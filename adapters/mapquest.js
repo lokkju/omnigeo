@@ -12,6 +12,10 @@ MapQuestAdapter.prototype.buildUrl = function(address) {
 }
 
 MapQuestAdapter.prototype.parseResponse = function(response) {
+  var json = JSON.parse(response);
+  if(json.info.messages) {
+    return {error: json.messages};
+  }
   var coords = JSON.parse(response).results[0].locations[0].latLng
   return coords
 }

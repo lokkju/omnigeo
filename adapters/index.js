@@ -4,8 +4,7 @@ module.exports = [
   'geocoderCa',
   'google',
   'mapquest',
-  'nominatim',
-  'yandex'
+  'nominatim'
 ].reduce(function(memo, module) {
   memo[module] = require('./' + module)
   return memo

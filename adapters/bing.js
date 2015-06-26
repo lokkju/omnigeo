@@ -17,7 +17,11 @@ BingAdapter.prototype.buildUrl = function(address) {
 }
 
 BingAdapter.prototype.parseResponse = function(response) {
-  var coords = JSON.parse(response)
+  var json = JSON.parse(response);
+  if(json.errorDetails) {
+    return {error: json.errorDetails};
+  }
+  var coords = json
     .resourceSets[0]
     .resources[0]
     .geocodePoints[0]
